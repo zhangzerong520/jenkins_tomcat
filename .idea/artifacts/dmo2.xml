@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="dmo2">
+    <output-path>$PROJECT_DIR$/out/artifacts/dmo2</output-path>
+    <root id="archive" name="dmo2.war">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="webproject" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="webproject/web/Web" />
+      <element id="javaee-facet-resources" facet="webproject/web/Web2" />
+    </root>
+  </artifact>
+</component>
